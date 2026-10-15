@@ -1,3 +1,2 @@
-Day,Send_Time,Sender_Account,Target_Company,Target_Email,Status
-1,2026-10-15 10:00:00,account1@proton.me,Tech Solutions Egypt,contact@techsolutions-eg.com,مهتم وعايز اتفاق 🤝
-1,2026-10-15 10:15:00,account2@proton.me,Cairo Digital Hub,info@cairodigitalhub.com,في انتظار الرد
+Day,Time,Sender,Company,Email,Status
+1,2026-10-15 22:00:00,acc7@proton.me,Tech,t@t.com,في انتظار الرد
